@@ -9,7 +9,7 @@
     "solidity-coverage": "^0.7.17"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.3.3",
+    "@openzeppelin/contracts": "^4.4.1",
     "chai": "^4.3.4",
     "hardhat-gas-reporter": "^1.0.4",
     "mocha": "^9.1.3"
